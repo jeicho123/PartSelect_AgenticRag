@@ -37,6 +37,9 @@ npm install
 npm run dev
 ```
 
+### Database
+Run the sql script in Supabase SQL Editor to create tables and functions
+
 ## Environment Variables
 Create a `.env` file with:
 ```
@@ -44,6 +47,3 @@ OPENAI_API_KEY=your_key_here
 SUPABASE_URL=your_url_here
 SUPABASE_SERVICE_KEY=your_key_here
 ```
-
-## Usage
-Type questions about appliance parts in the chat interface to get AI-powered answers based on the product database. 
